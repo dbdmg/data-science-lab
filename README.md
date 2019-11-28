@@ -11,4 +11,4 @@
 | 5 | November 6-7, 2019 | [pdf](http://dbdmg.polito.it/wordpress/wp-content/uploads/2019/11/Data_Science_Lab___Lab_5.pdf) | [pdf](http://dbdmg.polito.it/wordpress/wp-content/uploads/2019/11/Lab5_Solution.pdf) |
 | 6 | November 13-14, 2019 | [pdf](http://dbdmg.polito.it/wordpress/wp-content/uploads/2019/11/Data_Science_Lab___Lab_6.pdf) | [pdf] |
 | 7 | November 20-21, 2019 | [pdf](http://dbdmg.polito.it/wordpress/wp-content/uploads/2019/11/Data_Science_Lab___Lab_7.pdf) | [pdf] |
-| 8 | November 6-7, 2019 | [pdf](http://dbdmg.polito.it/wordpress/wp-content/uploads/2019/11/Data_Science_Lab___Lab_8.pdf) | [pdf] |
+| 8 | November 27-28, 2019 | [pdf](http://dbdmg.polito.it/wordpress/wp-content/uploads/2019/11/Data_Science_Lab___Lab_8.pdf) | [pdf] |
