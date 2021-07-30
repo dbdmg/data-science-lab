@@ -44,4 +44,4 @@ We have now trained eyes to discover when and where the underlying matter is the
 
 - We don't really need the explanation of what algorithms and models do in the "Model selection" section.
 
-- DO NOT insert screenshot, either of your code, pandas dataframes, results of any kind. Just do not do it.
+- DO NOT insert screenshots, either of your code, pandas dataframes, results of any kind. Just don't do it.
