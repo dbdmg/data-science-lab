@@ -43,3 +43,5 @@ Please read out the list below before submitting you report.
 We have now trained eyes to discover when and where the underlying matter is the same.
 
 - We don't really need the explanation of what algorithms and models do in the "Model selection" section.
+
+- DO NOT insert screenshot, either of your code, pandas dataframes, results of any kind. Just do not do it.
