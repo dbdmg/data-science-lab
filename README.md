@@ -34,7 +34,7 @@ Please read out the list below before submitting you report.
 **Other points**
 
 - The number of estimators for a  Random Forest model is not a real hyper-parameter. Typically, it is the higher the better.
-- 
+
 - You can user either "Figure"/"Table" or "Fig."/"Tab." in your text. But keep it consistent and avoid interchanging.
 
 - Please call figures "Figure" and not "Chart" or "Graph".
